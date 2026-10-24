@@ -1,0 +1,15 @@
+/
+/404.html
+/category/doencas-e-tratamentos/
+/ceratocone/
+/cirurgia-de-catarata/
+/cirurgia-refrativa-lasik-e-prk/
+/contato/
+/doencas-e-tratamentos/
+/local/
+/obrigado-instituto-de-olhos/
+/obrigado-ligacao/
+/obrigado/
+/politica-de-privacidade/
+/sobre/
+/termos-de-uso/

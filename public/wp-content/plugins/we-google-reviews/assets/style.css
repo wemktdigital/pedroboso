@@ -1,0 +1,39 @@
+.wegr-box {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+}
+
+.wegr-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.wegr-stars {
+  display: flex;
+  align-items: center;
+  width: 75px;
+}
+
+.wegr-rating-img {
+  height: 80px; /* Tamanho máximo das estrelas */
+}
+
+.wegr-text {
+  margin-left: 4px;
+  color: #fff;
+  font-size: 12px; /* Tamanho do texto atualizado */
+}
+
+.wegr-verificado {
+  
+  color: #fff;
+  border-radius: 5px;
+  padding: 2px 4px;
+  font-size: 10px;
+  line-height: 1;
+  text-decoration: none;
+  display: inline-block;
+}
